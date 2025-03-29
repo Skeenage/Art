@@ -1,12 +1,12 @@
 ---
 date: 2023-01-12
-title: Featured Album
+title: Nine Full Moons
 params:
   featured: true
   private: true # do not show in list, only as feature
-description: This is a featured album. It is private, so it is only shown on the homepage.
+description: This is a beautiful pregnant mermaid hugging the moon.
 resources:
-  - src: jeremy-bishop-pjszS6Q2g_Y-unsplash.jpg
+  - src: mermaid-canvas.jpg
     params:
       cover: true
 ---
