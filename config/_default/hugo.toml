@@ -1,11 +1,11 @@
-copyright = "© Your Name"
+copyright = "© Fatima Tobal Art"
 defaultContentLanguage = "en"
 disableKinds = ["taxonomy"]
 enableRobotsTXT = true
 languageCode = "en"
 timeZone = "Europe/Berlin"
 timeout = "120s"
-title = "Gallery"
+title = "My Art Gallery"
 
 [params]
   defaultTheme = "dark"
