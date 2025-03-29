@@ -1,5 +1,5 @@
 ---
-description: This is the "Sea Life" album. It has two sub-albums.
+description: This is the "Sea Life" album. It has three sub-albums.
 keywords: [Animals, Photos, Cats, Dogs]
 title: Sea Life
 weight: 1

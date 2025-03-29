@@ -1,6 +1,6 @@
 ---
 date: 2023-04-01
-title: Pots
+title: Plates
 sort_by: Name
 categories: ["sea life", "plates"]
 params:
