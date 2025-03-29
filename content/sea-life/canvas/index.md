@@ -1,6 +1,6 @@
 ---
 date: 2023-01-12
-title: Dogs
+title: Canvas
 categories: ["animals", "nature"]
 resources:
   - src: milli-2l0CWTpcChI-unsplash.jpg
