@@ -11,6 +11,8 @@
   "scripts": {
     "prettier": "prettier . --write",
     "lint": "stylelint assets/css/*.{css,scss}"
+    "build": "hugo --gc --minify",
+    "dev": "hugo server"
   },
   "version": "4.7.0"
 }
