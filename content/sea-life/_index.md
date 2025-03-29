@@ -6,7 +6,7 @@ weight: 1
 menus: "main"
 # list pages require at least one image to be displayed.
 resources:
-  - src: canvas/octopus-canvas.jpg
+  - src: octopus-canvas.jpg
     params:
       cover: true
 ---
