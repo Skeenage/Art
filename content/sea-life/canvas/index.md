@@ -1,7 +1,7 @@
 ---
 date: 2023-01-12
 title: Canvas
-categories: ["animals", "nature"]
+categories: [Sea Life", "Canvas"]
 resources:
   - src: milli-2l0CWTpcChI-unsplash.jpg
     params:
