@@ -2,7 +2,7 @@
 date: 2023-04-01
 title: Pots
 sort_by: Name
-categories: ["Sea Life", "Pots"]
+categories: ["sea life", "pots"]
 params:
   featured_image: manja-vitolic-gKXKBY-C-Dk-unsplash.jpg
 resources:
