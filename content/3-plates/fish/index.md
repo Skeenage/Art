@@ -2,7 +2,7 @@
 date: 2023-04-01
 title: Fish
 sort_by: Name
-categories: ["fish", "plates"]
+categories: ["fish"]
 params:
   featured_image: fish-plate.jpg
 resources:

@@ -2,7 +2,7 @@
 date: 2023-01-12
 title: Jellyfish
 description: hello
-categories: ["jellyfish", "canvas"]
+categories: ["jellyfish"]
 resources:
   - src: red-jellyfish-1.jpg
     title: "Medusa de Puntos Blancos. €65, 20x25cm, Pintura acrílica."

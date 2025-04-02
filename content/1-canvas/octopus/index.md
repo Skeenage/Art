@@ -2,7 +2,7 @@
 date: 2023-04-01
 title: Octopus
 sort_by: Name
-categories: ["octopus", "canvas"]
+categories: ["octopus"]
 params:
   featured_image: octopus-canvas.jpg
 resources:

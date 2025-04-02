@@ -1,7 +1,7 @@
 ---
 date: 2023-01-12
 title: Lighthouse
-categories: ["lighthouse", "canvas"]
+categories: ["lighthouse"]
 resources:
   - src: lighthouse-canvas.jpg
     params:

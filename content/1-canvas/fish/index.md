@@ -2,7 +2,7 @@
 date: 2023-04-01
 title: Fish
 sort_by: Name
-categories: ["fish", "canvas"]
+categories: ["fish"]
 params:
   featured_image: IMG_20250401_114556.jpg
 resources:

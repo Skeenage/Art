@@ -2,7 +2,7 @@
 date: 2023-04-01
 title: Starfish
 sort_by: Name
-categories: ["starfish", "canvas"]
+categories: ["starfish"]
 params:
   featured_image: IMG_20250401_113602.jpg
 resources:
