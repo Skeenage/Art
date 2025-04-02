@@ -1,12 +1,12 @@
 ---
 date: 2023-01-12
-title: Nine Full Moons
+title: Nueve Lunas Llenas
 params:
   featured: true
   private: true # do not show in list, only as feature
-description: This is a beautiful pregnant mermaid hugging the moon.
+description: €960. 50x70cm. Pintura acrílica.
 resources:
-  - src: mermaid-canvas.jpg
+  - src: 9-full-moons-1.jpg
     params:
       cover: true
 ---
