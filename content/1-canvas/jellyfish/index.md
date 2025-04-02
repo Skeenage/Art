@@ -1,7 +1,7 @@
-hi
 ---
 date: 2023-01-12
 title: Jellyfish
+description: hello
 categories: ["jellyfish", "canvas"]
 resources:
   - src: red-jellyfish-1.jpg
