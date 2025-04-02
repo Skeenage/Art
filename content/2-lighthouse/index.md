@@ -3,7 +3,7 @@ description: Since I live by the sea, I like to draw the lighthouse in Cabo de P
 menus: "main"
 title: Lighthouse
 categories: ["lighthouse", "canvas"]
-weight: 3
+weight: 2
 params:
   featured_image: lighthouse-canvas.jpg
   theme: dark
