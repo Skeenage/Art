@@ -1,5 +1,5 @@
 ---
-description: I love to paint all different canvases
+description: Utilizo lienzos de lona, pinturas acrílicas y para terminar barniz acrílico.
 keywords: [Animals, Photos, Cats, Dogs]
 title: Canvases
 weight: 1

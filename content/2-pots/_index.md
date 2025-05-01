@@ -1,5 +1,5 @@
 ---
-description: I love to paint all different pots
+description: Utilizo maceteros de terracota, imprimación acrílica, pinturas acrílicas y para terminar barniz acrílico.
 keywords: [Animals, Photos, Cats, Dogs]
 title: Pots
 weight: 2

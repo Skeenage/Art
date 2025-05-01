@@ -1,5 +1,5 @@
 ---
-description: I love to paint all different plates
+description: Utilizo platos y cuencos de terracota, imprimación acrílica, pinturas acrílicas y para terminar barniz acrílico.
 keywords: [Animals, Photos, Cats, Dogs]
 title: Plates
 weight: 3

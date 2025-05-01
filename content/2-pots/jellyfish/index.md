@@ -1,6 +1,6 @@
 ---
 date: 2023-04-01
-title: Fish
+title: Jellyfish
 sort_by: Name
 categories: ["jellyfish"]
 params:

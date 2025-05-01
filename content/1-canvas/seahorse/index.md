@@ -1,6 +1,6 @@
 ---
 date: 2023-04-01
-title: Animals
+title: Seahorse
 sort_by: Name
 categories: ["butterfly", "wincy"]
 params:
