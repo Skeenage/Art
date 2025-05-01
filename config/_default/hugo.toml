@@ -5,7 +5,7 @@ enableRobotsTXT = true
 languageCode = "es"
 timeZone = "Europe/Berlin"
 timeout = "120s"
-title = "Mi Galería de Arte"
+title = "Galería"
 
 [params]
   defaultTheme = "dark"

@@ -1,5 +1,5 @@
 ---
-description: Maceteros pintados a mano y más
+description: ¡Hola! Pinto maceteros de terracota y lienzos con pinturas acrílicas. Todo realizado con mucho amor. ¡Que lo disfrutes!
 #lastmod: 2023-07-05
 title: Fatima Tobal Art
 resources:
