@@ -4,7 +4,7 @@ title: Jellyfish
 description: hello
 categories: ["jellyfish"]
 resources:
-  - src: red-jellyfish-1.jpg
+  - src: jellyfish-canvas.jpg
     title: "Medusa de Puntos Blancos. €65, 20x25cm, Pintura acrílica."
     params:
       cover: true

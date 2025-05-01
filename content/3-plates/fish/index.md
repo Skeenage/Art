@@ -2,12 +2,12 @@
 date: 2023-04-01
 title: Fish
 sort_by: Name
-categories: ["fish"]
+categories: ["fish", "pufferfish"]
 params:
-  featured_image: fish-plate.jpg
+  featured_image: IMG_20250501_185318.jpg
 resources:
   - src: fish-plate.jpg
-    title: "I'm so lonely"
+    title: "yay! a friend"
     params:
       cover: true
 ---
