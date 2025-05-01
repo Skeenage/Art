@@ -4,9 +4,9 @@ title: Peces Bajo el Faro
 sort_by: Name
 categories: ["lighthouse", "fish"]
 params:
-  featured_image: IMG_20250501_112531.jpg
+  featured_image: IMG_20250401_112921.jpg
 resources:
-  - src: IMG_20250501_112531.jpg
+  - src: IMG_20250401_112921.jpg
     title: "A canvas"
     params:
       cover: true
