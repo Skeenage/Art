@@ -1,11 +1,11 @@
 copyright = "© Fatima Tobal Art"
-defaultContentLanguage = "en"
+defaultContentLanguage = "es"
 disableKinds = ["taxonomy"]
 enableRobotsTXT = true
-languageCode = "en"
+languageCode = "es"
 timeZone = "Europe/Berlin"
 timeout = "120s"
-title = "My Art Gallery"
+title = "Mi Galería de Arte"
 
 [params]
   defaultTheme = "dark"
@@ -19,7 +19,7 @@ title = "My Art Gallery"
     instagram = "https://www.instagram.com/fatimatobalart/"
     #github = "https://github.com/nicokaiser/hugo-theme-gallery/"
     #youtube = "https://www.youtube.com/"
-    email = "mailto:fatima97ct@hotmail.com"
+    email = "mailto:FatimaTobalArt@hotmail.com"
     #website = "https://example.com"
     #mastodon = "https://example.com"
     #pixelfed = "https://example.com"
