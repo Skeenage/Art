@@ -1,7 +1,7 @@
 ---
 date: 2023-01-12
-title: Lighthouse
-categories: ["lighthouse"]
+title: Faro
+categories: ["faro"]
 resources:
   - src: IMG_20250410_112219.jpg
     title: "Faro Rompeolas, 60x50cm."
