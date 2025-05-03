@@ -4,7 +4,6 @@ title: Medusa
 categories: ["medusa"]
 resources:
   - src: jellyfish-canvas.jpg
-    title: "Medusa de Puntos Blancos. €65, 20x25cm, Pintura acrílica."
     params:
       cover: true
   - src: IMG_20250501_111530.jpg
