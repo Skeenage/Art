@@ -1,6 +1,7 @@
 ---
 date: 2023-04-01
 title: Peces Bajo el Faro
+description: 40x50cm.
 sort_by: Name
 categories: ["faro", "pez"]
 params:
@@ -11,5 +12,4 @@ resources:
       cover: true
 ---
 
-40x50cm.
 

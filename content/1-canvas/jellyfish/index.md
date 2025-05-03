@@ -1,7 +1,6 @@
 ---
 date: 2023-01-12
 title: Medusa
-description: hello
 categories: ["medusa"]
 resources:
   - src: jellyfish-canvas.jpg
