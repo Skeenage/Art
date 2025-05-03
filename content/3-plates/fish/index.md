@@ -2,7 +2,7 @@
 date: 2023-04-01
 title: Pez
 sort_by: Name
-categories: ["pez", "pez globo"]
+categories: ["pez"]
 params:
   featured_image: IMG_20250501_185318.jpg
 resources:
