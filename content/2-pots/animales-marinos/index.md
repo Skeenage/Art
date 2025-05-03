@@ -1,6 +1,7 @@
 ---
 date: 2023-04-01
 title: Animales Marinos
+description: 45x30cm aprox.
 sort_by: Name
 categories: ["pulpo", "medusa", "pez", "estrella de mar", "coral"]
 params:
