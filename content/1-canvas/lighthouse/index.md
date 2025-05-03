@@ -4,9 +4,9 @@ title: Lighthouse
 categories: ["lighthouse"]
 resources:
   - src: IMG_20250410_112219.jpg
+    title: "Faro Rompeolas, 60x50cm."
     params:
       cover: true
+  - src: IMG_20250415_130809.jpg
+    title: "Atardecer en la Cueva, 40x40cm."
 ---
-
-Since I live by the sea, I like to paint canvases of the lighthouse in Cabo de Palos.
-

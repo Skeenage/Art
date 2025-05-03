@@ -1,13 +1,13 @@
 ---
 date: 2023-04-01
-title: Seahorse
+title: Caballito de Mar
 sort_by: Name
-categories: ["butterfly", "wincy"]
+categories: ["caballito de mar"]
 params:
   featured_image: IMG_20250430_094026.jpg
 resources:
   - src: IMG_20250430_094026.jpg
-    title: "My painting"
+    title: "Caballito de Mar Dando a Luz, 40x50cm."
     params:
       cover: true
 ---

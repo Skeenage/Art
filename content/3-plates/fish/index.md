@@ -1,13 +1,14 @@
 ---
 date: 2023-04-01
-title: Fish
+title: Pez
 sort_by: Name
-categories: ["fish", "pufferfish"]
+categories: ["pez", "pez globo"]
 params:
   featured_image: IMG_20250501_185318.jpg
 resources:
   - src: fish-plate.jpg
-    title: "yay! a friend"
     params:
       cover: true
+  - src: IMG_20250501_185318.jpg
+    title: "Plato Pez Globo"
 ---
