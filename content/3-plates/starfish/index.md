@@ -1,8 +1,8 @@
 ---
 date: 2023-04-01
-title: Starfish
+title: Estrella de Mar
 sort_by: Name
-categories: ["starfish"]
+categories: ["estrella de mar"]
 params:
   featured_image: IMG_20240430_105514.jpg
 resources:
